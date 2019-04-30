@@ -37,7 +37,7 @@ The code is built on Ubuntu 14.04 with CUDA 8.0 and OpenCV 3.1.
 	
 	- The network model is put in folder `prototxts`: -> `deploy-xxx.prototxt`
 	
-	- The path of test images can be found in `test-Image`
+	- The test images can be found in `test-Image`
 		 
 	- Then run `test_xxx.m` using matlab, you can get the saliency maps in folder `results/xxx/`
 
